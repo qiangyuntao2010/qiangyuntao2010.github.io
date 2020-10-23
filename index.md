@@ -1,33 +1,19 @@
 ## Biography
 
-Yuntao Qiang is a technical support engineer who loves to analyse basic linux or database architure or issue.
+Yuntao Qiang is a technical support engineer who loves to analyse basic linux & database architure or issue.
 He got Master Degree from Seoul National University (SNU) in the Department of Computer Science and Engineering in 2018, got bachelor degree from Dalian University of Technology (DUT) in the Department of Software Engineering, and now working in Oracle.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My Sharing
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I would like to share some technical skill of linux and mysql, and it's my pleasure if it can help you. Pls feel free to contact me or leave a msg, I would like to share what I know and learn from you.
 
 ```markdown
-Syntax highlighted code block
+Where you can find?
 
-# Header 1
-## Header 2
-### Header 3
+# Mysql_Note (You can find some Mysql knowledge from Mysql_Note repositroy)
 
-- Bulleted
-- List
+# Hardware-Linux-For-Oracle (You can find some Linux or Oracle specified knowledge from Hardware-Linux-For-Oracle repository)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
