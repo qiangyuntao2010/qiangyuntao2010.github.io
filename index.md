@@ -16,7 +16,8 @@ I would like to share some technical skill of linux and mysql, and it's my pleas
 
 
 ## Except For CS
-I can speak KR/EN/CN and learning JP now. Love music, table tennis, swimming, travelling and badminton. Don't hesitate to touch me if you want to have a  communication with me by my private e-mail qiangyuntao2010@hotmail.com
+I can speak KR/EN/CN and learning JP now. Love music, table tennis, swimming, travelling and badminton. Don't hesitate to touch me if you want to have a  communication with me by my private e-mail qiangyuntao2010@hotmail.com.
+
 Life is fantastic!
 
 
