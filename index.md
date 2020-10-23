@@ -10,6 +10,7 @@ I would like to share some technical skill of linux and mysql, and it's my pleas
 
 ## Somthing you may need?
 
+
 #### Mysql_Note (You can find some Mysql knowledge from Mysql_Note repositroy)
 
 #### Hardware-Linux-For-Oracle (You can find some Linux or Oracle specified knowledge from Hardware-Linux-For-Oracle repository)
